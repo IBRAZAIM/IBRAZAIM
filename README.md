@@ -1,17 +1,8 @@
-<div align="right">
-<img src="" align="right" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Привет, меня зовут Ибрагим</div>  
-  
+- В настоящее время я начинающий Java-разработчик
 
-- В настоящее время я начинающий Java-разработчик  
-  
 
 <br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
